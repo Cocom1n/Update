@@ -1,10 +1,15 @@
 .contenedorA {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: nowrap;
-    margin: auto auto;
+    background-color: #9d81e6;
     height: 60vh;
     width: 90vh;
-    background-color: #9d81e6;
+    margin: auto;
+}
+.Titulo{
+    text-align: center;
+    font-size: 30px;
+}
+
+.imagen{
+    width: 150px;
+    
 }
