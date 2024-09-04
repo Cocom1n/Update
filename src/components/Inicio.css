@@ -1,0 +1,10 @@
+.contenedorA {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    margin: auto auto;
+    height: 60vh;
+    width: 90vh;
+    background-color: #9d81e6;
+}
